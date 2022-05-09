@@ -1,0 +1,74 @@
+C:\Users\RECAİ\Source\Repos\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\ComPortOkuyucu.exe.config
+C:\Users\RECAİ\Source\Repos\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\ComPortOkuyucu.exe
+C:\Users\RECAİ\Source\Repos\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\ComPortOkuyucu.pdb
+C:\Users\RECAİ\Source\Repos\ComPortOkuyucu\ComPortOkuyucu\obj\Debug\ComPortOkuyucu.csproj.AssemblyReference.cache
+C:\Users\RECAİ\Source\Repos\ComPortOkuyucu\ComPortOkuyucu\obj\Debug\ComPortOkuyucu.Form1.resources
+C:\Users\RECAİ\Source\Repos\ComPortOkuyucu\ComPortOkuyucu\obj\Debug\ComPortOkuyucu.Properties.Resources.resources
+C:\Users\RECAİ\Source\Repos\ComPortOkuyucu\ComPortOkuyucu\obj\Debug\ComPortOkuyucu.csproj.GenerateResource.cache
+C:\Users\RECAİ\Source\Repos\ComPortOkuyucu\ComPortOkuyucu\obj\Debug\ComPortOkuyucu.csproj.CoreCompileInputs.cache
+C:\Users\RECAİ\Source\Repos\ComPortOkuyucu\ComPortOkuyucu\obj\Debug\ComPortOkuyucu.exe
+C:\Users\RECAİ\Source\Repos\ComPortOkuyucu\ComPortOkuyucu\obj\Debug\ComPortOkuyucu.pdb
+C:\Users\RECAİ\Source\Repos\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\RECAİ\Source\Repos\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RECAİ\Source\Repos\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\System.Web.Helpers.dll
+C:\Users\RECAİ\Source\Repos\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\System.Web.Razor.dll
+C:\Users\RECAİ\Source\Repos\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\RECAİ\Source\Repos\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\System.Web.WebPages.dll
+C:\Users\RECAİ\Source\Repos\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\RECAİ\Source\Repos\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RECAİ\Source\Repos\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\System.Web.Helpers.xml
+C:\Users\RECAİ\Source\Repos\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\System.Web.Razor.xml
+C:\Users\RECAİ\Source\Repos\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\System.Web.WebPages.xml
+C:\Users\RECAİ\Source\Repos\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\RECAİ\Source\Repos\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\RECAİ\Source\Repos\ComPortOkuyucu\ComPortOkuyucu\obj\Debug\ComPortOkuyucu.csproj.CopyComplete
+E:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\ComPortOkuyucu.exe.config
+E:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\ComPortOkuyucu.exe
+E:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\ComPortOkuyucu.pdb
+E:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\Newtonsoft.Json.dll
+E:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\System.Web.Helpers.dll
+E:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\System.Web.Razor.dll
+E:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\System.Web.WebPages.dll
+E:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\System.Web.WebPages.Razor.dll
+E:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\Newtonsoft.Json.xml
+E:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\System.Web.Helpers.xml
+E:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\System.Web.Razor.xml
+E:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\System.Web.WebPages.xml
+E:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\System.Web.WebPages.Razor.xml
+E:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\obj\Debug\ComPortOkuyucu.csproj.AssemblyReference.cache
+E:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\obj\Debug\ComPortOkuyucu.csproj.SuggestedBindingRedirects.cache
+E:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\obj\Debug\ComPortOkuyucu.Form1.resources
+E:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\obj\Debug\ComPortOkuyucu.Properties.Resources.resources
+E:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\obj\Debug\ComPortOkuyucu.csproj.GenerateResource.cache
+E:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\obj\Debug\ComPortOkuyucu.csproj.CoreCompileInputs.cache
+E:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\obj\Debug\ComPortOkuyucu.csproj.CopyComplete
+E:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\obj\Debug\ComPortOkuyucu.exe
+E:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\obj\Debug\ComPortOkuyucu.pdb
+F:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\obj\Debug\ComPortOkuyucu.csproj.AssemblyReference.cache
+F:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\obj\Debug\ComPortOkuyucu.csproj.SuggestedBindingRedirects.cache
+F:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\obj\Debug\ComPortOkuyucu.Form1.resources
+F:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\obj\Debug\ComPortOkuyucu.Properties.Resources.resources
+F:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\obj\Debug\ComPortOkuyucu.csproj.GenerateResource.cache
+F:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\obj\Debug\ComPortOkuyucu.csproj.CoreCompileInputs.cache
+F:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\obj\Debug\ComPortOkuyucu.exe
+F:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\obj\Debug\ComPortOkuyucu.pdb
+F:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\ComPortOkuyucu.exe.config
+F:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\ComPortOkuyucu.exe
+F:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\ComPortOkuyucu.pdb
+F:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\Newtonsoft.Json.dll
+F:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\System.Web.Helpers.dll
+F:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\System.Web.Razor.dll
+F:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\System.Web.WebPages.dll
+F:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\System.Web.WebPages.Razor.dll
+F:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\Newtonsoft.Json.xml
+F:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\System.Web.Helpers.xml
+F:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\System.Web.Razor.xml
+F:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\System.Web.WebPages.xml
+F:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\bin\Debug\System.Web.WebPages.Razor.xml
+F:\HASTA TAKİP\ComPortOkuyucu\ComPortOkuyucu\obj\Debug\ComPortOkuyucu.csproj.CopyComplete
